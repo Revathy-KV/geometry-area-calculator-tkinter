@@ -1,8 +1,6 @@
 # geometry-area-calculator-tkinter
 A Python-based GUI project using Tkinter to demonstrate area calculation of basic geometric shapes
 
-# Geometry Area Calculator using Tkinter
-
 A simple and user-friendly Python GUI application developed using Tkinter to calculate the areas of basic geometric shapes such as a **Rectangle** and a **Circle**.
 
 ---
@@ -40,7 +38,7 @@ geometry-area-calculator/
 ├── circle_area.py # Calculates area of a circle
 └── README.md # Project documentation
 
-
+---
 🎯 Learning Outcomes
 
 Understanding of Tkinter GUI components (Label, Entry, Button)
@@ -51,6 +49,7 @@ Real-time user input processing
 
 Building simple desktop applications using Python
 
+---
 👤 Author
 
 Revathy
